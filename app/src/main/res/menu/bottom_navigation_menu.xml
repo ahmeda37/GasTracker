@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    <item
+        android:id="@+id/action_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/action_add"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_add"
+        android:title="Add" />
+    <item
+        android:id="@+id/action_view"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_view"
+        android:title="View" />
+    <item
+        android:id="@+id/action_ytd"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_view"
+        android:title="YTD"
+        />
+    <item
+        android:id="@+id/action_settings"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_settings"
+        android:title="Settings" />
+</menu>
